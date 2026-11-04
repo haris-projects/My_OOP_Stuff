@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 #include<iostream>
 using namespace std;
 
@@ -42,5 +44,8 @@ apply_discount(b1,prct);
  cout<<"The Price  of the book After Discount : "<<b1.price<<endl ;
 
 cout<<"========================================"<<endl;
+cout<<"========================================"<<endl;
     return 0 ;
+  
 }
+>>>>>>> b2f4a8f (New)
