@@ -54,7 +54,7 @@ for(i=0 ; i<n ;i++){
     count++;
 }
 cout<<"The total no of people that Belongs from Lahore is "<<count<<endl;
-
+cout<<"==========================================================="<<endl;
 delete [] a1;
 a1=nullptr;
 
