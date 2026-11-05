@@ -63,6 +63,6 @@ int main(){
     Circle c1(radius);
     p1 = &c1;
     p1->area();
-
+     cout<<endl;
     return 0;
 }
