@@ -12,7 +12,7 @@ Base(string n , int marks){
 }
 void Show();
 ~Base(){
-    // delete name;
+    cout<<endl;
     cout<<"Base Class Destroy"<<endl;
 }
 };
