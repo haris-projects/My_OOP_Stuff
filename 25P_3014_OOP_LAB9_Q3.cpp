@@ -15,6 +15,7 @@ public:
     void renderDisplay() {
         cout << "[Radar] Sweep -> Distance: " << targetDistance
              << " km, Azimuth: " << targetAzimuth << " degrees" << endl;
+             cout<<endl;
     }
 };
 
@@ -101,6 +102,6 @@ int main() {
     hud.renderTacticalOverlay(true, true);
     cout << endl;
     hud.renderTacticalOverlay(false, false);
-
+    cout<<endl;
     return 0;
 }
